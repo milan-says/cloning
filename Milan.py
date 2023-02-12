@@ -479,9 +479,17 @@ def first():
 
 				else:
 
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			else:
 
@@ -491,11 +499,18 @@ def first():
 
 				else:
 
-					pwv.append(nmf)
-
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(nmf)
+						pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			if 'mobile' in method:
 
@@ -573,9 +588,17 @@ def name2():
 
 				else:
 
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			else:
 
@@ -585,15 +608,17 @@ def name2():
 
 				else:
 
-					pwv.append(nmf)
-
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
-
-					pwv.append(frs+'1234')
-
-					pwv.append(frs+'786')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			if 'mobile' in method:
 
@@ -779,10 +804,10 @@ logo = ("""
 \033[1;35m╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 \033[41m\033[1;37m[MILAN]   [THE]   [DEVIL]\x1b[0m
 \033[1;32m┌───────────────────────────────────────┐
-\033[1;33m│ [✓] AUTHOR   : MILAN BHANDARI\033[1;32m[RRSN]         │
-\033[1;34m│ [✓] GITHUB   : \033[41m\033[1;37mTEAM NEPAL\x1b[0m           │
-\033[1;35m│ [✓] WHATSAPP :  984756****           │
-\033[1;36m│ [✓] POWER MILAN : \x1b[1;32mPRO PRONOY\x1b[1;97m           │
+\033[1;33m│ [✓] AUTHOR   : MILAN BHANDARI\033[1;32m[RRSN]                    │
+\033[1;34m│ [✓] GITHUB   : \033[41m\033[1;37mMILAN-SAYS\x1b[0m           │
+\033[1;35m│ [✓] WHATSAPP :  9847564915                                                            │
+\033[1;36m│ [✓] POWER MILAN : \x1b[1;32mMustDev\x1b[1;97m            │
 \033[1;32m└───────────────────────────────────────┘  
          \033[41m\033[1;37mTOOL ADMIN [MILAN] [MILAN XD]\x1b[0m    """)
 
@@ -852,7 +877,7 @@ class Main:
 
 		if MILAN in ["3", "03"]:
 
-			os.system("python TOOL.py")
+			os.system("python crack.py")
 
 		if MILAN in ["4", "04"]:
 
@@ -2727,11 +2752,11 @@ def back():
 
 	login()
 
-ahsan="ALE-"
+ahsan="MILAN-"
 
-imt="-M4786=="
+imt="-MILAN=="
 
-ak="AHSAN-"
+ak="MILAN-"
 
 myid=uuid.uuid4().hex[:10].upper()
 
@@ -3027,9 +3052,17 @@ def first():
 
 				else:
 
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			else:
 
@@ -3039,11 +3072,17 @@ def first():
 
 				else:
 
-					pwv.append(nmf)
-
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			if 'mobile' in method:
 
@@ -3121,9 +3160,17 @@ def name2():
 
 				else:
 
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			else:
 
@@ -3133,15 +3180,17 @@ def name2():
 
 				else:
 
-					pwv.append(nmf)
-
-					pwv.append(frs+'123')
-
-					pwv.append(frs+'12345')
-
-					pwv.append(frs+'1234')
-
-					pwv.append(frs+'786')
+					    pwv.append(frs+'123')
+						pwv.append(frs+'1234')
+						pwv.append(frs+'12345')
+						pwv.append(frs+'123456')
+						pwv.append(frs+'@123')
+						pwv.append(frs+'@1234')
+						pwv.append(frs+'@12345')
+						pwv.append(frs+'@123456')
+						pwv.append(frs+'@last')
+						pwv.append(frs+'@nepal')
+						pwv.append(frs+'@98')
 
 			if 'mobile' in method:
 
@@ -3327,10 +3376,10 @@ logo = ("""
 \033[1;35m╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 \033[41m\033[1;37m[MILAN]   [THE]   [DEVIL]\x1b[0m
 \033[1;32m┌───────────────────────────────────────┐
-\033[1;33m│ [✓] AUTHOR   : MILAN BHANDARI\033[1;32m[RRSN]         │
-\033[1;34m│ [✓] GITHUB   : \033[41m\033[1;37mTEAM NEPAL\x1b[0m           │
-\033[1;35m│ [✓] WHATSAPP :  984756****           │
-\033[1;36m│ [✓] POWER MILAN : \x1b[1;32mPRO PRONOY\x1b[1;97m           │
+\033[1;33m│ [✓] AUTHOR   : MILAN BHANDARI\033[1;32m[MSD]         │
+\033[1;34m│ [✓] GITHUB   : \033[41m\033[1;37mMILAN-SAYS\x1b[0m           │
+\033[1;35m│ [✓] WHATSAPP :  9847564915           │
+\033[1;36m│ [✓] POWER MILAN : \x1b[1;32mMustDev\x1b[1;97m           │
 \033[1;32m└───────────────────────────────────────┘  
          \033[41m\033[1;37mTOOL ADMIN [MILAN] [MILAN XD]\x1b[0m    """)
 
@@ -3350,12 +3399,12 @@ class Main:
 
 		print(logo)
 
-		print("\033[1;32m➥[1]\033[1;33m𓆩FILE CLONING𓆪\033[1;34m[NEW UPDATE]")
-		print("\033[1;32m➥[2]\033[1;35m𓆩PUBLIC CLONING𓆪\033[1;35m[NEW METHOD]")
-		print("\033[1;36m➥[3]\033[1;32m𓆩FILE CRATE𓆪\033[1;36m[NEW UPDATE]")
-		print("\033[1;32m➥[4]\033[1;34m𓆩CLONE 2009-2010 ACOUNT𓆪\033[1;35m[FULL WORKING]")
-		print("\033[1;32m➥[5]\033[1;33m𓆩CLONE 2010-2014 ACOUNT𓆪\033[1;36m[FULL WORKING]")
-		print("\033[1;32m➥[6]\033[1;32m𓆩JOIN OUR GROUP𓆪\n    \033[41m\033[1;37mNOT 2009 ACOUNT JUST NOW OPEN ONLY OK\x1b[0m ")
+		print("\033[1;32m➥[1]\033[1;33mFILE CLONING\033[1;34m[NEW UPDATE]")
+		print("\033[1;32m➥[2]\033[1;35mPUBLIC CLONING\033[1;35m[NEW METHOD]")
+		print("\033[1;36m➥[3]\033[1;32mFILE CRATE\033[1;36m[NEW UPDATE]")
+		print("\033[1;32m➥[4]\033[1;34mCLONE 2009-2010 ACOUNT\033[1;35m[FULL WORKING]")
+		print("\033[1;32m➥[5]\033[1;33mCLONE 2010-2014 ACOUNT\033[1;36m[FULL WORKING]")
+		print("\033[1;32m➥[6]\033[1;32mJOIN OUR GROUP\n    \033[41m\033[1;37mNOT 2009 ACOUNT JUST NOW OPEN ONLY OK\x1b[0m ")
 
 		ARIYAN =input(" Choose : ")
 
